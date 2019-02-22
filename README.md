@@ -5,4 +5,4 @@ Use LIRI to search for a specific song
 <br><br>
 for concerts of a favorite artist 
 <br><br>
-![giphy](https://user-images.githubusercontent.com/43261460/53272491-79b3f100-36bf-11e9-822e-a992380d6180.gif)
+![ezgif-2-e9af240a5622](https://user-images.githubusercontent.com/43261460/53272754-2b532200-36c0-11e9-8695-42aafac63ac3.gif)
