@@ -52,7 +52,7 @@ function spotifySong(){
             "album: " + results[i].album,
           ].join("\n\n")
 
-          console.log(displayResults + seperator);
+          console.log(seperator + displayResults + seperator);
         }
       });
 }
@@ -72,7 +72,7 @@ function concertThis(){
           "date of venue: " + moment(output[i].datetime).format(randomFormat),
         ].join("\n\n")
 
-        console.log(displayResults + seperator);
+        console.log(seperator + displayResults + seperator);
       }
     })
     .catch(function (error) {
@@ -83,5 +83,24 @@ function concertThis(){
 //IMDB api function
 function findMovie(){
 
+  axios.get('http://www.omdbapi.com/?t=' + search + '&apikey=58d2760e')
+  .then(function (response) {
+    var output = response.data
 
+    var displayResults = [
+      "Title of movie: " + output.Title,
+      "year released: " + output.Year,
+      "IMBD rating: " + output.imdbRating,
+      "rotting tomatoes rating: " + output.Ratings[1].Value,
+      "country produced: " + output.Country,
+      "language of movie: " + output.Language[0],
+      "actors: " + output.Actors,
+      "plot: " + output.Plot,
+    ].join("\n\n")
+
+    console.log(seperator + displayResults + seperator);
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
 }
