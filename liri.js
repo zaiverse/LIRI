@@ -4,12 +4,14 @@ var keys = require('./keys.js');
 var Spotify = require('node-spotify-api');
 var axios = require('axios');
 var moment = require('moment');
+var fs = require('fs');
 
 var randomFormat = "MM/DD/YYYY";
 
 
 var search = process.argv.slice(3).join(" ");
 var seperator = "\n---------------------------------------------------------------------\n";
+var spaces = "\n\n\n***********************************************************************************************************************************\n\n\n"
 var spotify = new Spotify(keys.spotify);
 
 var results = []
@@ -29,62 +31,117 @@ switch(process.argv[2]){
 
 //node spotify api function
 function spotifySong(){
-    spotify.search({ type: 'track', query: search}, function(err, data) {
-        if (err) {
-          return console.log('Error occurred: ' + err);
-        }
-        console.log("Here are you results for: " + search)
-        //push individual song details into empty array
-        data.tracks.items.forEach(function(details){
-            results.push({
-                artist: details.artists[0].name,
-                song: details.name,
-                preview: details.external_urls.spotify,
-                album: details.album.name
-                });
-            });
-        //display results
-        for(var i=0; i<results.length; i++){
-          var displayResults = [
-            "artist: " + results[i].artist,
-            "song: " + results[i].song,
-            "preview: " + results[i].preview,
-            "album: " + results[i].album,
-          ].join("\n\n")
 
-          console.log(seperator + displayResults + seperator);
+  //default result if user did not enter process.argv[3]
+  if(!search){
+    search = "i want it that way"
+  }
+
+  //append search to spotify.txt
+  spotify.search({ type: 'track', query: search}, function(err, data) {
+  
+    console.log(search.toUpperCase());
+
+    
+    fs.appendFile("spotifythis.txt", spaces + search.toUpperCase(), function(err) {
+      if (err) {
+        console.log(err);
+      }
+    });
+
+    if (err) {
+      return console.log('Error occurred: ' + err);
+    }
+
+    //push individual song details into empty array
+    data.tracks.items.forEach(function(details){
+        results.push({
+            artist: details.artists[0].name,
+            song: details.name,
+            preview: details.external_urls.spotify,
+            album: details.album.name
+            });
+        });
+
+    //display results
+    for(var i=0; i<results.length; i++){
+      var displayResults = [
+        "artist: " + results[i].artist,
+        "song: " + results[i].song,
+        "preview: " + results[i].preview,
+        "album: " + results[i].album,
+      ].join("\n\n")
+
+      console.log(seperator + displayResults + seperator);
+
+      fs.appendFile("spotifythis.txt", seperator + displayResults + seperator, function(err) {
+        if (err) {
+          console.log(err);
         }
       });
+    }
+  });
 }
 
 //bands in town api function
 function concertThis(){
-    axios.get('https://rest.bandsintown.com/artists/' + search + '/events?app_id=codingbootcamp')
-    .then(function (response) {
-      var output = response.data;
 
-      for(var i=0; i<output.length; i++){
+  if(!search){
+    search = "nothing but thieves"
+  }
 
-        var displayResults = [
-          "name of venue: " + output[i].venue.name,
-          "country of venue: " + output[i].venue.country,
-          "city of venue: " + output[i].venue.city,
-          "date of venue: " + moment(output[i].datetime).format(randomFormat),
-        ].join("\n\n")
+  axios.get('https://rest.bandsintown.com/artists/' + search + '/events?app_id=codingbootcamp')
+  .then(function (response) {
+    console.log(search.toUpperCase())
 
-        console.log(seperator + displayResults + seperator);
+    fs.appendFile("concertthis.txt", spaces + search.toUpperCase(), function(err) {
+      if (err) {
+        console.log(err);
       }
-    })
-    .catch(function (error) {
-      console.log(error);
     });
+
+    var output = response.data;
+
+    for(var i=0; i<output.length; i++){
+
+      var displayResults = [
+        "name of venue: " + output[i].venue.name,
+        "country of venue: " + output[i].venue.country,
+        "city of venue: " + output[i].venue.city,
+        "date of venue: " + moment(output[i].datetime).format(randomFormat),
+      ].join("\n\n")
+
+      console.log(seperator + displayResults + seperator);
+
+      fs.appendFile("concertthis.txt", seperator + displayResults + seperator, function(err) {
+        if (err) {
+          console.log(err);
+        }
+      });
+    }
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
 }
 
 //IMDB api function
 function findMovie(){
 
-  axios.get('http://www.omdbapi.com/?t=' + search + '&apikey=58d2760e')
-  .then(function (response) {
+  if(!search){
+    search = "inception"
+  }
+
+    axios.get('http://www.omdbapi.com/?t=' + search + '&apikey=58d2760e')
+    .then(function (response) {
+    console.log(search.toUpperCase())
+
+    fs.appendFile("findmovie.txt", spaces + search.toUpperCase(), function(err) {
+      if (err) {
+        console.log(err);
+      }
+    });
+
     var output = response.data
 
     var displayResults = [
@@ -99,8 +156,15 @@ function findMovie(){
     ].join("\n\n")
 
     console.log(seperator + displayResults + seperator);
-  })
-  .catch(function (error) {
+
+    fs.appendFile("findmovie.txt", seperator + displayResults + seperator, function(err) {
+      if (err) {
+        console.log(err);
+      }
+    });
+
+    })
+    .catch(function (error) {
     console.log(error);
-  });
-}
+    });
+  }

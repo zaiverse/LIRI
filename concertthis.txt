@@ -1,0 +1,2628 @@
+
+
+
+***********************************************************************************************************************************
+
+
+ARIANA GRANDE
+---------------------------------------------------------------------
+name of venue: Times Union Center
+
+country of venue: United States
+
+city of venue: Albany
+
+date of venue: 03/18/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: TD Garden
+
+country of venue: United States
+
+city of venue: Boston
+
+date of venue: 03/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: KeyBank Center
+
+country of venue: United States
+
+city of venue: Buffalo
+
+date of venue: 03/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Capitol One Arena
+
+country of venue: United States
+
+city of venue: Washington
+
+date of venue: 03/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Wells Fargo Center
+
+country of venue: United States
+
+city of venue: Philadelphia
+
+date of venue: 03/26/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Quicken Loans Arena
+
+country of venue: United States
+
+city of venue: Cleveland
+
+date of venue: 03/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Mohegan Sun Arena
+
+country of venue: United States
+
+city of venue: Uncasville
+
+date of venue: 03/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bell Centre
+
+country of venue: Canada
+
+city of venue: Montréal
+
+date of venue: 04/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Scotiabank Arena
+
+country of venue: Canada
+
+city of venue: Toronto
+
+date of venue: 04/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Little Caesars Arena
+
+country of venue: United States
+
+city of venue: Detroit
+
+date of venue: 04/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 04/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 04/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Schottenstein Center
+
+country of venue: United States
+
+city of venue: Columbus
+
+date of venue: 04/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Empire Polo Club
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/12/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Enterprise Center
+
+country of venue: United States
+
+city of venue: Saint Louis
+
+date of venue: 04/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Coachella Valley Music and Arts Festival
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Xcel Energy Center
+
+country of venue: United States
+
+city of venue: St Paul
+
+date of venue: 04/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Pepsi Center
+
+country of venue: United States
+
+city of venue: Denver
+
+date of venue: 04/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Coachella Valley Music and Arts Festival
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Vivint Smart Home Arena
+
+country of venue: United States
+
+city of venue: Salt Lake City
+
+date of venue: 04/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Rogers Place
+
+country of venue: Canada
+
+city of venue: Edmonton
+
+date of venue: 04/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Rogers Arena
+
+country of venue: Canada
+
+city of venue: Vancouver
+
+date of venue: 04/27/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Moda Center
+
+country of venue: United States
+
+city of venue: Portland
+
+date of venue: 04/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: SAP Center
+
+country of venue: United States
+
+city of venue: San Jose
+
+date of venue: 05/02/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Golden 1 Center
+
+country of venue: United States
+
+city of venue: Sacramento
+
+date of venue: 05/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: STAPLES Center
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/06/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Staples Center
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The Forum
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: T-Mobile Arena
+
+country of venue: United States
+
+city of venue: Las Vegas
+
+date of venue: 05/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Talking Stick Resort Arena
+
+country of venue: United States
+
+city of venue: Phoenix
+
+date of venue: 05/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AT&T Center
+
+country of venue: United States
+
+city of venue: San Antonio
+
+date of venue: 05/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Toyota Center
+
+country of venue: United States
+
+city of venue: Houston
+
+date of venue: 05/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Center
+
+country of venue: United States
+
+city of venue: Dallas
+
+date of venue: 05/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Chesapeake Energy Arena
+
+country of venue: United States
+
+city of venue: Oklahoma City
+
+date of venue: 05/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Amalie Arena
+
+country of venue: United States
+
+city of venue: Tampa
+
+date of venue: 05/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Amway Center
+
+country of venue: United States
+
+city of venue: Orlando
+
+date of venue: 05/29/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Arena
+
+country of venue: United States
+
+city of venue: Miami
+
+date of venue: 05/31/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Fiserv Forum
+
+country of venue: United States
+
+city of venue: Milwaukee
+
+date of venue: 04/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Arena
+
+country of venue: United States
+
+city of venue: Miami
+
+date of venue: 06/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 06/04/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 06/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bridgestone Arena
+
+country of venue: United States
+
+city of venue: Nashville
+
+date of venue: 06/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: State Farm Arena
+
+country of venue: United States
+
+city of venue: Atlanta
+
+date of venue: 06/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Spectrum Center
+
+country of venue: United States
+
+city of venue: Charlotte
+
+date of venue: 06/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: PPG Paints Arena
+
+country of venue: United States
+
+city of venue: Pittsburgh
+
+date of venue: 06/12/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclays Center
+
+country of venue: United States
+
+city of venue: Brooklyn
+
+date of venue: 06/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclays Center
+
+country of venue: United States
+
+city of venue: Brooklyn
+
+date of venue: 06/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Madison Square Garden
+
+country of venue: United States
+
+city of venue: New York
+
+date of venue: 06/18/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Smoothie King Center
+
+country of venue: United States
+
+city of venue: New Orleans
+
+date of venue: 05/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Madison Square Garden
+
+country of venue: United States
+
+city of venue: New York
+
+date of venue: 06/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: TD Garden
+
+country of venue: United States
+
+city of venue: Boston
+
+date of venue: 06/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Wells Fargo Center
+
+country of venue: United States
+
+city of venue: Philadelphia
+
+date of venue: 06/24/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Scotiabank Arena
+
+country of venue: Canada
+
+city of venue: Toronto
+
+date of venue: 06/26/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bankers Life Fieldhouse
+
+country of venue: United States
+
+city of venue: Indianapolis
+
+date of venue: 06/29/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The Schottenstein Center
+
+country of venue: United States
+
+city of venue: Columbus
+
+date of venue: 07/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Fiserv Forum
+
+country of venue: United States
+
+city of venue: Milwaukee
+
+date of venue: 07/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Enterprise Center
+
+country of venue: United States
+
+city of venue: St. Louis
+
+date of venue: 07/06/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Xcel Energy Center
+
+country of venue: United States
+
+city of venue: St Paul
+
+date of venue: 07/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Pepsi Center
+
+country of venue: United States
+
+city of venue: Denver
+
+date of venue: 07/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Vivint Smart Home Arena
+
+country of venue: United States
+
+city of venue: Salt Lake City
+
+date of venue: 07/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2 Arena
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2 Arena
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 08/24/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Capital One Arena
+
+country of venue: United States
+
+city of venue: Washington
+
+date of venue: 06/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AccorHotels Arena
+
+country of venue: France
+
+city of venue: Paris
+
+date of venue: 08/27/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AccorHotels Arena
+
+country of venue: France
+
+city of venue: Paris
+
+date of venue: 08/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Sportpaleis Antwerpen
+
+country of venue: Belgium
+
+city of venue: Antwerpen
+
+date of venue: 08/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Lanxess Arena
+
+country of venue: Germany
+
+city of venue: Köln
+
+date of venue: 09/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Stadthalle
+
+country of venue: Austria
+
+city of venue: Vienna
+
+date of venue: 09/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclaycard Arena
+
+country of venue: Germany
+
+city of venue: Hamburg
+
+date of venue: 09/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: O2 arena
+
+country of venue: Czech Republic
+
+city of venue: Praha 9
+
+date of venue: 09/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Tauron Arena
+
+country of venue: Poland
+
+city of venue: Kraków
+
+date of venue: 09/09/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 09/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Arena Birmingham
+
+country of venue: United Kingdom
+
+city of venue: Birmingham
+
+date of venue: 09/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Arena Birmingham
+
+country of venue: United Kingdom
+
+city of venue: Birmingham
+
+date of venue: 09/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The SSE Hydro
+
+country of venue: United Kingdom
+
+city of venue: Glasgow
+
+date of venue: 09/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: FlyDSA Arena
+
+country of venue: United Kingdom
+
+city of venue: Sheffield
+
+date of venue: 09/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: 3Arena
+
+country of venue: Ireland
+
+city of venue: Dublin
+
+date of venue: 09/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: 3Arena
+
+country of venue: Ireland
+
+city of venue: Dublin
+
+date of venue: 09/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Royal Arena
+
+country of venue: Denmark
+
+city of venue: Copenhagen
+
+date of venue: 10/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 08/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Hartwall Arena
+
+country of venue: Finland
+
+city of venue: Hki
+
+date of venue: 10/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ericsson Globe
+
+country of venue: Sweden
+
+city of venue: Stockholm
+
+date of venue: 10/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Mercedes-Benz-Arena
+
+country of venue: Germany
+
+city of venue: Berlin
+
+date of venue: 10/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Hallenstadion
+
+country of venue: Switzerland
+
+city of venue: Zürich
+
+date of venue: 10/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Telenor Arena
+
+country of venue: Norway
+
+city of venue: Oslo
+
+date of venue: 10/03/2019
+---------------------------------------------------------------------
+
+
+
+***********************************************************************************************************************************
+
+
+ARIANA GRANDE
+---------------------------------------------------------------------
+name of venue: Times Union Center
+
+country of venue: United States
+
+city of venue: Albany
+
+date of venue: 03/18/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: TD Garden
+
+country of venue: United States
+
+city of venue: Boston
+
+date of venue: 03/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: KeyBank Center
+
+country of venue: United States
+
+city of venue: Buffalo
+
+date of venue: 03/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Capitol One Arena
+
+country of venue: United States
+
+city of venue: Washington
+
+date of venue: 03/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Wells Fargo Center
+
+country of venue: United States
+
+city of venue: Philadelphia
+
+date of venue: 03/26/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Quicken Loans Arena
+
+country of venue: United States
+
+city of venue: Cleveland
+
+date of venue: 03/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Mohegan Sun Arena
+
+country of venue: United States
+
+city of venue: Uncasville
+
+date of venue: 03/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bell Centre
+
+country of venue: Canada
+
+city of venue: Montréal
+
+date of venue: 04/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Scotiabank Arena
+
+country of venue: Canada
+
+city of venue: Toronto
+
+date of venue: 04/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Little Caesars Arena
+
+country of venue: United States
+
+city of venue: Detroit
+
+date of venue: 04/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 04/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 04/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Schottenstein Center
+
+country of venue: United States
+
+city of venue: Columbus
+
+date of venue: 04/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Empire Polo Club
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/12/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Enterprise Center
+
+country of venue: United States
+
+city of venue: Saint Louis
+
+date of venue: 04/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Coachella Valley Music and Arts Festival
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Fiserv Forum
+
+country of venue: United States
+
+city of venue: Milwaukee
+
+date of venue: 04/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Xcel Energy Center
+
+country of venue: United States
+
+city of venue: St Paul
+
+date of venue: 04/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Pepsi Center
+
+country of venue: United States
+
+city of venue: Denver
+
+date of venue: 04/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Coachella Valley Music and Arts Festival
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Vivint Smart Home Arena
+
+country of venue: United States
+
+city of venue: Salt Lake City
+
+date of venue: 04/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Rogers Place
+
+country of venue: Canada
+
+city of venue: Edmonton
+
+date of venue: 04/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Rogers Arena
+
+country of venue: Canada
+
+city of venue: Vancouver
+
+date of venue: 04/27/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Moda Center
+
+country of venue: United States
+
+city of venue: Portland
+
+date of venue: 04/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Golden 1 Center
+
+country of venue: United States
+
+city of venue: Sacramento
+
+date of venue: 05/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: SAP Center
+
+country of venue: United States
+
+city of venue: San Jose
+
+date of venue: 05/02/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: STAPLES Center
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/06/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Staples Center
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The Forum
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: T-Mobile Arena
+
+country of venue: United States
+
+city of venue: Las Vegas
+
+date of venue: 05/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Talking Stick Resort Arena
+
+country of venue: United States
+
+city of venue: Phoenix
+
+date of venue: 05/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AT&T Center
+
+country of venue: United States
+
+city of venue: San Antonio
+
+date of venue: 05/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Toyota Center
+
+country of venue: United States
+
+city of venue: Houston
+
+date of venue: 05/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Center
+
+country of venue: United States
+
+city of venue: Dallas
+
+date of venue: 05/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Chesapeake Energy Arena
+
+country of venue: United States
+
+city of venue: Oklahoma City
+
+date of venue: 05/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Smoothie King Center
+
+country of venue: United States
+
+city of venue: New Orleans
+
+date of venue: 05/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Amalie Arena
+
+country of venue: United States
+
+city of venue: Tampa
+
+date of venue: 05/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Amway Center
+
+country of venue: United States
+
+city of venue: Orlando
+
+date of venue: 05/29/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Arena
+
+country of venue: United States
+
+city of venue: Miami
+
+date of venue: 05/31/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Arena
+
+country of venue: United States
+
+city of venue: Miami
+
+date of venue: 06/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 06/04/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 06/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bridgestone Arena
+
+country of venue: United States
+
+city of venue: Nashville
+
+date of venue: 06/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: State Farm Arena
+
+country of venue: United States
+
+city of venue: Atlanta
+
+date of venue: 06/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Spectrum Center
+
+country of venue: United States
+
+city of venue: Charlotte
+
+date of venue: 06/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: PPG Paints Arena
+
+country of venue: United States
+
+city of venue: Pittsburgh
+
+date of venue: 06/12/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclays Center
+
+country of venue: United States
+
+city of venue: Brooklyn
+
+date of venue: 06/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclays Center
+
+country of venue: United States
+
+city of venue: Brooklyn
+
+date of venue: 06/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Madison Square Garden
+
+country of venue: United States
+
+city of venue: New York
+
+date of venue: 06/18/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Madison Square Garden
+
+country of venue: United States
+
+city of venue: New York
+
+date of venue: 06/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Capital One Arena
+
+country of venue: United States
+
+city of venue: Washington
+
+date of venue: 06/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: TD Garden
+
+country of venue: United States
+
+city of venue: Boston
+
+date of venue: 06/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Wells Fargo Center
+
+country of venue: United States
+
+city of venue: Philadelphia
+
+date of venue: 06/24/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Scotiabank Arena
+
+country of venue: Canada
+
+city of venue: Toronto
+
+date of venue: 06/26/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bankers Life Fieldhouse
+
+country of venue: United States
+
+city of venue: Indianapolis
+
+date of venue: 06/29/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The Schottenstein Center
+
+country of venue: United States
+
+city of venue: Columbus
+
+date of venue: 07/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Fiserv Forum
+
+country of venue: United States
+
+city of venue: Milwaukee
+
+date of venue: 07/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Enterprise Center
+
+country of venue: United States
+
+city of venue: St. Louis
+
+date of venue: 07/06/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Pepsi Center
+
+country of venue: United States
+
+city of venue: Denver
+
+date of venue: 07/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Xcel Energy Center
+
+country of venue: United States
+
+city of venue: St Paul
+
+date of venue: 07/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Vivint Smart Home Arena
+
+country of venue: United States
+
+city of venue: Salt Lake City
+
+date of venue: 07/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2 Arena
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2 Arena
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 08/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 08/24/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AccorHotels Arena
+
+country of venue: France
+
+city of venue: Paris
+
+date of venue: 08/27/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AccorHotels Arena
+
+country of venue: France
+
+city of venue: Paris
+
+date of venue: 08/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Sportpaleis Antwerpen
+
+country of venue: Belgium
+
+city of venue: Antwerpen
+
+date of venue: 08/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Lanxess Arena
+
+country of venue: Germany
+
+city of venue: Köln
+
+date of venue: 09/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Stadthalle
+
+country of venue: Austria
+
+city of venue: Vienna
+
+date of venue: 09/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclaycard Arena
+
+country of venue: Germany
+
+city of venue: Hamburg
+
+date of venue: 09/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Tauron Arena
+
+country of venue: Poland
+
+city of venue: Kraków
+
+date of venue: 09/09/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: O2 arena
+
+country of venue: Czech Republic
+
+city of venue: Praha 9
+
+date of venue: 09/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 09/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Arena Birmingham
+
+country of venue: United Kingdom
+
+city of venue: Birmingham
+
+date of venue: 09/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Arena Birmingham
+
+country of venue: United Kingdom
+
+city of venue: Birmingham
+
+date of venue: 09/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The SSE Hydro
+
+country of venue: United Kingdom
+
+city of venue: Glasgow
+
+date of venue: 09/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: FlyDSA Arena
+
+country of venue: United Kingdom
+
+city of venue: Sheffield
+
+date of venue: 09/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: 3Arena
+
+country of venue: Ireland
+
+city of venue: Dublin
+
+date of venue: 09/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: 3Arena
+
+country of venue: Ireland
+
+city of venue: Dublin
+
+date of venue: 09/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Royal Arena
+
+country of venue: Denmark
+
+city of venue: Copenhagen
+
+date of venue: 10/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Telenor Arena
+
+country of venue: Norway
+
+city of venue: Oslo
+
+date of venue: 10/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Hartwall Arena
+
+country of venue: Finland
+
+city of venue: Hki
+
+date of venue: 10/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ericsson Globe
+
+country of venue: Sweden
+
+city of venue: Stockholm
+
+date of venue: 10/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Mercedes-Benz-Arena
+
+country of venue: Germany
+
+city of venue: Berlin
+
+date of venue: 10/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Hallenstadion
+
+country of venue: Switzerland
+
+city of venue: Zürich
+
+date of venue: 10/13/2019
+---------------------------------------------------------------------
+
+
+
+***********************************************************************************************************************************
+
+
+ARIANA GRANDE
+---------------------------------------------------------------------
+name of venue: Times Union Center
+
+country of venue: United States
+
+city of venue: Albany
+
+date of venue: 03/18/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Capitol One Arena
+
+country of venue: United States
+
+city of venue: Washington
+
+date of venue: 03/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: TD Garden
+
+country of venue: United States
+
+city of venue: Boston
+
+date of venue: 03/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: KeyBank Center
+
+country of venue: United States
+
+city of venue: Buffalo
+
+date of venue: 03/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Quicken Loans Arena
+
+country of venue: United States
+
+city of venue: Cleveland
+
+date of venue: 03/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Mohegan Sun Arena
+
+country of venue: United States
+
+city of venue: Uncasville
+
+date of venue: 03/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Wells Fargo Center
+
+country of venue: United States
+
+city of venue: Philadelphia
+
+date of venue: 03/26/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Scotiabank Arena
+
+country of venue: Canada
+
+city of venue: Toronto
+
+date of venue: 04/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bell Centre
+
+country of venue: Canada
+
+city of venue: Montréal
+
+date of venue: 04/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Little Caesars Arena
+
+country of venue: United States
+
+city of venue: Detroit
+
+date of venue: 04/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 04/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 04/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Schottenstein Center
+
+country of venue: United States
+
+city of venue: Columbus
+
+date of venue: 04/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Empire Polo Club
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/12/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Enterprise Center
+
+country of venue: United States
+
+city of venue: Saint Louis
+
+date of venue: 04/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Coachella Valley Music and Arts Festival
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Fiserv Forum
+
+country of venue: United States
+
+city of venue: Milwaukee
+
+date of venue: 04/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Xcel Energy Center
+
+country of venue: United States
+
+city of venue: St Paul
+
+date of venue: 04/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Pepsi Center
+
+country of venue: United States
+
+city of venue: Denver
+
+date of venue: 04/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Coachella Valley Music and Arts Festival
+
+country of venue: United States
+
+city of venue: Indio
+
+date of venue: 04/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Vivint Smart Home Arena
+
+country of venue: United States
+
+city of venue: Salt Lake City
+
+date of venue: 04/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Rogers Place
+
+country of venue: Canada
+
+city of venue: Edmonton
+
+date of venue: 04/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Rogers Arena
+
+country of venue: Canada
+
+city of venue: Vancouver
+
+date of venue: 04/27/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Moda Center
+
+country of venue: United States
+
+city of venue: Portland
+
+date of venue: 04/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: SAP Center
+
+country of venue: United States
+
+city of venue: San Jose
+
+date of venue: 05/02/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Golden 1 Center
+
+country of venue: United States
+
+city of venue: Sacramento
+
+date of venue: 05/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: STAPLES Center
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/06/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Staples Center
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The Forum
+
+country of venue: United States
+
+city of venue: Los Angeles
+
+date of venue: 05/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: T-Mobile Arena
+
+country of venue: United States
+
+city of venue: Las Vegas
+
+date of venue: 05/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Talking Stick Resort Arena
+
+country of venue: United States
+
+city of venue: Phoenix
+
+date of venue: 05/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AT&T Center
+
+country of venue: United States
+
+city of venue: San Antonio
+
+date of venue: 05/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Toyota Center
+
+country of venue: United States
+
+city of venue: Houston
+
+date of venue: 05/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Center
+
+country of venue: United States
+
+city of venue: Dallas
+
+date of venue: 05/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Chesapeake Energy Arena
+
+country of venue: United States
+
+city of venue: Oklahoma City
+
+date of venue: 05/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Smoothie King Center
+
+country of venue: United States
+
+city of venue: New Orleans
+
+date of venue: 05/25/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Amalie Arena
+
+country of venue: United States
+
+city of venue: Tampa
+
+date of venue: 05/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Amway Center
+
+country of venue: United States
+
+city of venue: Orlando
+
+date of venue: 05/29/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Arena
+
+country of venue: United States
+
+city of venue: Miami
+
+date of venue: 05/31/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: American Airlines Arena
+
+country of venue: United States
+
+city of venue: Miami
+
+date of venue: 06/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 06/04/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: United Center
+
+country of venue: United States
+
+city of venue: Chicago
+
+date of venue: 06/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bridgestone Arena
+
+country of venue: United States
+
+city of venue: Nashville
+
+date of venue: 06/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: State Farm Arena
+
+country of venue: United States
+
+city of venue: Atlanta
+
+date of venue: 06/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Spectrum Center
+
+country of venue: United States
+
+city of venue: Charlotte
+
+date of venue: 06/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: PPG Paints Arena
+
+country of venue: United States
+
+city of venue: Pittsburgh
+
+date of venue: 06/12/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclays Center
+
+country of venue: United States
+
+city of venue: Brooklyn
+
+date of venue: 06/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclays Center
+
+country of venue: United States
+
+city of venue: Brooklyn
+
+date of venue: 06/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Madison Square Garden
+
+country of venue: United States
+
+city of venue: New York
+
+date of venue: 06/18/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Madison Square Garden
+
+country of venue: United States
+
+city of venue: New York
+
+date of venue: 06/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Capital One Arena
+
+country of venue: United States
+
+city of venue: Washington
+
+date of venue: 06/21/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: TD Garden
+
+country of venue: United States
+
+city of venue: Boston
+
+date of venue: 06/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Wells Fargo Center
+
+country of venue: United States
+
+city of venue: Philadelphia
+
+date of venue: 06/24/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Scotiabank Arena
+
+country of venue: Canada
+
+city of venue: Toronto
+
+date of venue: 06/26/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Bankers Life Fieldhouse
+
+country of venue: United States
+
+city of venue: Indianapolis
+
+date of venue: 06/29/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The Schottenstein Center
+
+country of venue: United States
+
+city of venue: Columbus
+
+date of venue: 07/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Fiserv Forum
+
+country of venue: United States
+
+city of venue: Milwaukee
+
+date of venue: 07/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Enterprise Center
+
+country of venue: United States
+
+city of venue: St. Louis
+
+date of venue: 07/06/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Xcel Energy Center
+
+country of venue: United States
+
+city of venue: St Paul
+
+date of venue: 07/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Pepsi Center
+
+country of venue: United States
+
+city of venue: Denver
+
+date of venue: 07/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Vivint Smart Home Arena
+
+country of venue: United States
+
+city of venue: Salt Lake City
+
+date of venue: 07/13/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2 Arena
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The O2 Arena
+
+country of venue: United Kingdom
+
+city of venue: London
+
+date of venue: 08/20/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 08/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 08/24/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AccorHotels Arena
+
+country of venue: France
+
+city of venue: Paris
+
+date of venue: 08/27/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: AccorHotels Arena
+
+country of venue: France
+
+city of venue: Paris
+
+date of venue: 08/28/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Sportpaleis Antwerpen
+
+country of venue: Belgium
+
+city of venue: Antwerpen
+
+date of venue: 08/30/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Lanxess Arena
+
+country of venue: Germany
+
+city of venue: Köln
+
+date of venue: 09/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Stadthalle
+
+country of venue: Austria
+
+city of venue: Vienna
+
+date of venue: 09/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Barclaycard Arena
+
+country of venue: Germany
+
+city of venue: Hamburg
+
+date of venue: 09/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: O2 arena
+
+country of venue: Czech Republic
+
+city of venue: Praha 9
+
+date of venue: 09/08/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Tauron Arena
+
+country of venue: Poland
+
+city of venue: Kraków
+
+date of venue: 09/09/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ziggo Dome
+
+country of venue: Netherlands
+
+city of venue: Amsterdam
+
+date of venue: 09/11/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Arena Birmingham
+
+country of venue: United Kingdom
+
+city of venue: Birmingham
+
+date of venue: 09/14/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Arena Birmingham
+
+country of venue: United Kingdom
+
+city of venue: Birmingham
+
+date of venue: 09/15/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: The SSE Hydro
+
+country of venue: United Kingdom
+
+city of venue: Glasgow
+
+date of venue: 09/17/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: FlyDSA Arena
+
+country of venue: United Kingdom
+
+city of venue: Sheffield
+
+date of venue: 09/19/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: 3Arena
+
+country of venue: Ireland
+
+city of venue: Dublin
+
+date of venue: 09/22/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Royal Arena
+
+country of venue: Denmark
+
+city of venue: Copenhagen
+
+date of venue: 10/01/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: 3Arena
+
+country of venue: Ireland
+
+city of venue: Dublin
+
+date of venue: 09/23/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Telenor Arena
+
+country of venue: Norway
+
+city of venue: Oslo
+
+date of venue: 10/03/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Hartwall Arena
+
+country of venue: Finland
+
+city of venue: Hki
+
+date of venue: 10/05/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Ericsson Globe
+
+country of venue: Sweden
+
+city of venue: Stockholm
+
+date of venue: 10/07/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Mercedes-Benz-Arena
+
+country of venue: Germany
+
+city of venue: Berlin
+
+date of venue: 10/10/2019
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+name of venue: Hallenstadion
+
+country of venue: Switzerland
+
+city of venue: Zürich
+
+date of venue: 10/13/2019
+---------------------------------------------------------------------
